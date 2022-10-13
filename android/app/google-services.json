@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427273884799",
+    "project_id": "chantiers-bdea6",
+    "storage_bucket": "chantiers-bdea6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427273884799:android:c0218325a6ddf270de5b4a",
+        "android_client_info": {
+          "package_name": "com.example.chantiers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427273884799-i9r4e4tddneb1og5sh7f8a6rt3pa77h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ZFU2zvKUJaI1I5eb1FkGeTdaMOsqxpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427273884799-i9r4e4tddneb1og5sh7f8a6rt3pa77h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
